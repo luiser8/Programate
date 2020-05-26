@@ -1,5 +1,4 @@
 import React from 'react';
-import Carrito from './Carrito';
 import Presentacion from './Presentacion';
 
 const Home = () => {
